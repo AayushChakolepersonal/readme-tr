@@ -7,6 +7,8 @@ A data mesh architecture is a decentralized approach that enables domain teams t
 
 
 
+
+
 ---
 ## Platforms 
 
@@ -23,7 +25,7 @@ Version Control, CI/CD            | Git, SchemaChange, Terraform
 
 ---
 
-"C:\Users\2113228\Pictures\Screenshot (222).png"
+
 
 
 
