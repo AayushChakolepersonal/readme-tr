@@ -10,7 +10,8 @@ A data mesh architecture is a decentralized approach that enables domain teams t
 <br>
 
 ### Metadata driven pipeline
-<img src="https://user-images.githubusercontent.com/122434276/226251773-1c37a63f-1abf-47ef-8d4b-6127924cafe2.png" width=75% height=75% />
+<img src="https://user-images.githubusercontent.com/122434276/226251983-e7af9e27-b4c6-45e4-bfb3-c2b1fa631990.png" width=75% height=75% />
+
 
 
 
