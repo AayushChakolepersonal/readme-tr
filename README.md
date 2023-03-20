@@ -4,15 +4,18 @@ The Self-Service Data Analytics Platform is a unified platform built based on Da
 
 ### Data meash
 A data mesh architecture is a decentralized approach that enables domain teams to perform cross-domain data analysis on their own. At its core is the domain with its responsible team and its operational and analytical data. The domain team ingests operational data and builds analytical data models as data products to perform their own analysis. It may also choose to publish data products with data contracts to serve other domains’ data needs.
-![Screenshot (222)](https://user-images.githubusercontent.com/122434276/226250376-22a97d44-2b65-46c0-918b-1195101b5f8e.png)
 
+<img src="https://user-images.githubusercontent.com/122434276/226250376-22a97d44-2b65-46c0-918b-1195101b5f8e.png" width=75% height=75% />
+
+<br>
 
 ### Metadata driven pipeline
-![Screenshot (220)](https://user-images.githubusercontent.com/122434276/226251773-1c37a63f-1abf-47ef-8d4b-6127924cafe2.png)
+<img src="https://user-images.githubusercontent.com/122434276/226251773-1c37a63f-1abf-47ef-8d4b-6127924cafe2.png" width=75% height=75% />
 
 
 
 
+<br>
 
 ---
 ## Platforms 
@@ -30,7 +33,12 @@ Version Control, CI/CD            | Git, SchemaChange, Terraform
 
 ---
 
+There are four folders on this repository,
+* Documents
+* Infra
+* Scripts
+* Source
 
-
+---
 
 
