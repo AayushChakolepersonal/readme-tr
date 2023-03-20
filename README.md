@@ -4,6 +4,10 @@ The Self-Service Data Analytics Platform is a unified platform built based on Da
 ### Data meash
 A data mesh architecture is a decentralized approach that enables domain teams to perform cross-domain data analysis on their own. At its core is the domain with its responsible team and its operational and analytical data. The domain team ingests operational data and builds analytical data models as data products to perform their own analysis. It may also choose to publish data products with data contracts to serve other domains’ data needs.
 
+![Screenshot (222)](https://user-images.githubusercontent.com/122434276/226250376-22a97d44-2b65-46c0-918b-1195101b5f8e.png)
+
+### Metadata driven pipeline
+
 
 
 
